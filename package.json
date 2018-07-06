@@ -1,7 +1,7 @@
 {
-  "name": "easy-peasy-bot",
+  "name": "met-bot",
   "version": "1.0.0",
-  "description": "The awesomest bot evar.",
+  "description": "cool bot for MetLife account at IBM",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
